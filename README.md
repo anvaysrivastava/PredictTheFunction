@@ -11,6 +11,8 @@ The csv are of format
 | 63      | 51 | 162 |
 | 76      | 94 |   98 |
 
+The above example is f(a,b) = 5a-3b
+
 ## How to run
 `python predict.py`
 
