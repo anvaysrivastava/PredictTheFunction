@@ -24,3 +24,12 @@ pip = 10.0.1
 tensorflow = 1.8.0
 
 pandas = 0.23.0
+
+## Sample output
+**python predict.py**
+
+{'average_loss': 0.106394805, 'global_step': 10000, 'loss': 9.965647}
+
+f(a=5,b=5)=[9.993236]
+
+f(a=0,b=1)=[-3.003212]
