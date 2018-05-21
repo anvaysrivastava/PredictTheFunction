@@ -15,3 +15,12 @@ The csv are of format
 `python predict.py`
 
 The evaluation is presently hardcoded.
+
+## System values
+python = 2.7
+
+pip = 10.0.1
+
+tensorflow = 1.8.0
+
+pandas = 0.23.0
